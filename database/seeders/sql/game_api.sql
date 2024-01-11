@@ -1,0 +1,1 @@
+INSERT INTO game_api(id, provider, api_key, secret_key, url_request, url_response, status) VALUES (1, 'PragmaticPlay', 'sxks_kingcuan', 'testKey', 'https://api.prerelease-env.biz/IntegrationService/v3/http/CasinoGameAPI', '', 1);
